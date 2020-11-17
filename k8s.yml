@@ -1,0 +1,39 @@
+apiVersion: apps/v1 
+kind: Deployment
+metadata:
+  name: ticktock-backend
+spec:
+  selector:
+    matchLabels:
+      app: ticktock-backend
+  replicas: 2
+  template:
+    metadata:
+      labels:
+        app: ticktock-backend
+    spec:
+      containers:
+      - name: ticktock-backend
+        image: codekulkarni/ticktock-backend
+        imagePullPolicy: "Always"
+        ports:
+        - containerPort: 5000
+
+---
+
+
+apiVersion: v1
+kind: Service
+metadata:
+  creationTimestamp: null
+  name: nodeservice
+spec:
+  type: LoadBalancer
+  ports:
+    - protocol: TCP
+      port: 5000
+      targetPort: 5000
+  selector:
+    app: ticktock-backend
+status:
+  loadBalancer: {}
