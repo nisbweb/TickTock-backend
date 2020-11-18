@@ -1,105 +1,102 @@
-[{
-        "question": "ques_tech0",
-        "answer": "2"
-
-    },
-    {
-        "question": "ques_tech1",
-        "answer": " i=4,j=1 & i=5,j=1"
-    },
-    {
-        "question": "ques_tech2",
-        "answer": "[[], [1], [2], [1, 2], [3], [1, 3], [2, 3], [1, 2, 3]]"
-    },
-    {
-        "question": "ques_tech3",
-        "answer": " ! printf("
-        hello ")"
-
-    },
-    {
-        "question": "ques_tech4",
-        "answer": "printf(" % f % Lf ", a, b);"
-    },
-    {
-        "question": "ques_tech5",
-        "answer": "15 GB"
-    },
-    {
-        "question": "ques_tech6",
-        "answer": "30 GB"
-    },
-    {
-        "question": "ques_tech7",
-        "answer": "ASUS Zenfone 2"
-    },
-    {
-        "question": "ques_tech8",
-        "answer": "Oppo "
-    } {
-        "question": "ques_tech9",
-        "answer": "1"
-
-    },
-    {
-        "question": "ques_tech10",
-        "answer": "0"
-    },
-    {
-        "question": "ques_tech11",
-        "answer": "10"
-    } {
-        "question": "ques_tech12",
-        "answer": "0 3 4.00"
-
-    },
-    {
-        "question": "ques_tech13",
-        "answer": "Hello Coding"
-    },
-    {
-        "question": "ques_tech14",
-        "answer": "3 4 5"
-    } {
-        "question": "ques_tech15",
-        "answer": "It is stored in CPU"
-
-    },
-    {
-        "question": "ques_tech16",
-        "answer": "-8192"
-    },
-    {
-        "question": "ques_tech17",
-        "answer": "[0,1,2,3,4,5]"
-    } {
-        "question": "ques_tech18",
-        "answer": "[4,5,6]"
-
-    },
-    {
-        "question": "ques_tech19",
-        "answer": "1,2,34,5,6"
-    },
-    {
-        "question": "ques_tech20",
-        "answer": "10"
-    } {
-        "question": "ques_tech21",
-        "answer": "3"
-
-    },
-    {
-        "question": "ques_tech22",
-        "answer": "ENDIF"
-    },
-    {
-        "question": "ques_tech23",
-        "answer": "Tribonacci series"
-    },
-    {
-        "question": "ques_tech24",
-        "answer": "Tests whether a binary tree is a Binary Search Tree"
-    },
-
+[
+  {
+    "question": "ques_tech0",
+    "answer": "2"
+  },
+  {
+    "question": "ques_tech1",
+    "answer": " i=4,j=1 & i=5,j=1"
+  },
+  {
+    "question": "ques_tech2",
+    "answer": "[[], [1], [2], [1, 2], [3], [1, 3], [2, 3], [1, 2, 3]]"
+  },
+  {
+    "question": "ques_tech3",
+    "answer": "!printf(\"hello\")"
+  },
+  {
+    "question": "ques_tech4",
+    "answer": "printf(\"%f %Lf\", a, b);"
+  },
+  {
+    "question": "ques_tech5",
+    "answer": "15 GB"
+  },
+  {
+    "question": "ques_tech6",
+    "answer": "30 GB"
+  },
+  {
+    "question": "ques_tech7",
+    "answer": "ASUS Zenfone 2"
+  },
+  {
+    "question": "ques_tech8",
+    "answer": "Oppo "
+  },
+  {
+    "question": "ques_tech9",
+    "answer": "1"
+  },
+  {
+    "question": "ques_tech10",
+    "answer": "0"
+  },
+  {
+    "question": "ques_tech11",
+    "answer": "10"
+  },
+  {
+    "question": "ques_tech12",
+    "answer": "0 3 4.00"
+  },
+  {
+    "question": "ques_tech13",
+    "answer": "Hello Coding"
+  },
+  {
+    "question": "ques_tech14",
+    "answer": "3 4 5"
+  },
+  {
+    "question": "ques_tech15",
+    "answer": "It is stored in CPU"
+  },
+  {
+    "question": "ques_tech16",
+    "answer": "-8192"
+  },
+  {
+    "question": "ques_tech17",
+    "answer": "[0,1,2,3,4,5]"
+  },
+  {
+    "question": "ques_tech18",
+    "answer": "[4,5,6]"
+  },
+  {
+    "question": "ques_tech19",
+    "answer": "1,2,34,5,6"
+  },
+  {
+    "question": "ques_tech20",
+    "answer": "10"
+  },
+  {
+    "question": "ques_tech21",
+    "answer": "3"
+  },
+  {
+    "question": "ques_tech22",
+    "answer": "ENDIF"
+  },
+  {
+    "question": "ques_tech23",
+    "answer": "Tribonacci series"
+  },
+  {
+    "question": "ques_tech24",
+    "answer": "Tests whether a binary tree is a Binary Search Tree"
+  }
 ]

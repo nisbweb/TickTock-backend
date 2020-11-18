@@ -1,124 +1,126 @@
-[{
-        "question": "ques_non_tech0",
-        "answer": " John Dalton"
-    },
-    {
-        "question": "ques_non_tech1",
-        "answer": "280"
-    },
-    {
-        "question": "ques_non_tech2",
-        "answer": "Thursday"
-    },
-    {
-        "question": "ques_non_tech3",
-        "answer": "20+10+5+4"
-    },
-    {
-        "question": "ques_non_tech4",
-        "answer": " sorry for wasting time"
-    },
-    {
-        "question": "ques_non_tech5",
-        "answer": "205"
-    },
-    {
-        "question": "ques_non_tech6",
-        "answer": "31, 962, 29791, 923522"
-    },
-    {
-        "question": "ques_non_tech7",
-        "answer": "None of the above"
-    },
-    {
-        "question": "ques_non_tech8",
-        "answer": " Google Cloud Programming"
-    },
-    {
-        "question": "ques_non_tech9",
-        "answer": "MediaTek Helio G85"
-    },
-    {
-        "question": "ques_non_tech10",
-        "answer": " iPhone XS"
-    },
-    {
-        "question": "ques_non_tech11",
-        "answer": "hacktober"
-    },
-    {
-        "question": "ques_non_tech12",
-        "answer": "A=3.5,B=6.5,C=11.5,D=5.5"
-    },
-    {
-        "question": "ques_non_tech13",
-        "answer": "macros"
-    },
-    {
-        "question": "ques_non_tech14",
-        "answer": "Christoph Martin Wieland"
-    },
-    {
-        "question": "ques_non_tech15",
-        "answer": "+="
-    },
-    {
-        "question": "ques_non_tech16",
-        "answer": "% / * ="
-    },
-    {
-        "question": "ques_non_tech17",
-        "answer": "99"
-    },
-    {
-        "question": "ques_non_tech18",
-        "answer": "0"
-    },
-    {
-        "question": "ques_non_tech19",
-        "answer": "No of milliseconds in a Day"
-    },
-    {
-        "question": "ques_non_tech20",
-        "answer": "Brown"
-    },
-    {
-        "question": "ques_non_tech21",
-        "answer": "Clyde"
-    },
-    {
-        "question": "ques_non_tech22",
-        "answer": "SHOW PEARS BUS ARE"
-    },
-    {
-        "question": "ques_non_tech23",
-        "answer": "Micromax"
-    },
-    {
-        "question": "ques_non_tech24",
-        "answer": "8 tentacles on an octopus"
-    },
-    {
-        "question": "ques_non_tech25",
-        "answer": "64 squares on a chess board"
-    },
-    {
-        "question": "ques_non_tech26",
-        "answer": "13112221"
-    },
-    {
-        "question": "ques_non_tech27",
-        "answer": "4"
-    },
-    {
-        "question": "ques_non_tech28",
-        "answer": "elgoog.im"
-    },
-    {
-        "question": "ques_non_tech29",
-        "answer": "Insanity"
-    } {
-        "question": "ques_non_tech30",
-        "answer": "19"
-    }
+[
+  {
+    "question": "ques_non_tech0",
+    "answer": " John Dalton"
+  },
+  {
+    "question": "ques_non_tech1",
+    "answer": "280"
+  },
+  {
+    "question": "ques_non_tech2",
+    "answer": "Thursday"
+  },
+  {
+    "question": "ques_non_tech3",
+    "answer": "20+10+5+4"
+  },
+  {
+    "question": "ques_non_tech4",
+    "answer": " sorry for wasting time"
+  },
+  {
+    "question": "ques_non_tech5",
+    "answer": "205"
+  },
+  {
+    "question": "ques_non_tech6",
+    "answer": "31, 962, 29791, 923522"
+  },
+  {
+    "question": "ques_non_tech7",
+    "answer": "None of the above"
+  },
+  {
+    "question": "ques_non_tech8",
+    "answer": " Google Cloud Programming"
+  },
+  {
+    "question": "ques_non_tech9",
+    "answer": "MediaTek Helio G85"
+  },
+  {
+    "question": "ques_non_tech10",
+    "answer": " iPhone XS"
+  },
+  {
+    "question": "ques_non_tech11",
+    "answer": "hacktober"
+  },
+  {
+    "question": "ques_non_tech12",
+    "answer": "A=3.5,B=6.5,C=11.5,D=5.5"
+  },
+  {
+    "question": "ques_non_tech13",
+    "answer": "macros"
+  },
+  {
+    "question": "ques_non_tech14",
+    "answer": "Christoph Martin Wieland"
+  },
+  {
+    "question": "ques_non_tech15",
+    "answer": "+="
+  },
+  {
+    "question": "ques_non_tech16",
+    "answer": "% / * ="
+  },
+  {
+    "question": "ques_non_tech17",
+    "answer": "99"
+  },
+  {
+    "question": "ques_non_tech18",
+    "answer": "0"
+  },
+  {
+    "question": "ques_non_tech19",
+    "answer": "No of milliseconds in a Day"
+  },
+  {
+    "question": "ques_non_tech20",
+    "answer": "Brown"
+  },
+  {
+    "question": "ques_non_tech21",
+    "answer": "Clyde"
+  },
+  {
+    "question": "ques_non_tech22",
+    "answer": "SHOW PEARS BUS ARE"
+  },
+  {
+    "question": "ques_non_tech23",
+    "answer": "Micromax"
+  },
+  {
+    "question": "ques_non_tech24",
+    "answer": "8 tentacles on an octopus"
+  },
+  {
+    "question": "ques_non_tech25",
+    "answer": "64 squares on a chess board"
+  },
+  {
+    "question": "ques_non_tech26",
+    "answer": "13112221"
+  },
+  {
+    "question": "ques_non_tech27",
+    "answer": "4"
+  },
+  {
+    "question": "ques_non_tech28",
+    "answer": "elgoog.im"
+  },
+  {
+    "question": "ques_non_tech29",
+    "answer": "Insanity"
+  },
+  {
+    "question": "ques_non_tech30",
+    "answer": "19"
+  }
 ]
