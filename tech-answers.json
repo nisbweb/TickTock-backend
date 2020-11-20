@@ -41,7 +41,7 @@
   },
   {
     "question": "ques_tech10",
-    "answer": "0"
+    "answer": "1"
   },
   {
     "question": "ques_tech11",
@@ -69,7 +69,7 @@
   },
   {
     "question": "ques_tech17",
-    "answer": "[0,1,2,3,4,5]"
+    "answer": "[0,1,2,3,4]"
   },
   {
     "question": "ques_tech18",
